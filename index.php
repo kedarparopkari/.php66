@@ -5,7 +5,7 @@
 <h1> kedar paropkari < h1>
 
 <?php
-echo "hello world two";
+echo "hello";
 ?>
 
 </body>
