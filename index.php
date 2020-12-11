@@ -2,10 +2,9 @@
 <html>
 <body>
 
-<h1> kedar paropkari < h1>
 
 <?php
-echo "hello";
+echo "my data";
 ?>
 
 </body>
